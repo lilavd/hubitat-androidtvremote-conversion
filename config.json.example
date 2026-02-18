@@ -1,0 +1,11 @@
+// Bridge configuration example
+// Rename this file to config.json and modify values as needed
+// All values shown are defaults
+{
+  "port": 3000,
+  "keepaliveInterval": 30,
+  "reconnectDelay": 5,
+  "minReconnectInterval": 30,
+  "activityTimeout": 60,
+  "statePollInterval": 10
+}
