@@ -62,11 +62,9 @@ node androidtv-bridge.js
 |----------|-------------|
 | [INSTALLATION.md](INSTALLATION.md) | Complete setup guide |
 | [CONFIGURATION.md](CONFIGURATION.md) | All configuration options |
-| [COMMANDS.md](COMMANDS.md) | Command reference |
 | [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common issues & fixes |
 | [LIMITATIONS.md](LIMITATIONS.md) | Known limitations by TV brand |
 | [DOCKER_SETUP.md](DOCKER_SETUP.md) | Docker/QNAP setup |
-| [AUTOMATION_EXAMPLES.md](AUTOMATION_EXAMPLES.md) | Rule Machine examples |
 
 ## Compatibility
 
